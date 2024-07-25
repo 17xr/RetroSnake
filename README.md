@@ -20,7 +20,7 @@ To build and run the Retro Snake Game, you need:
 2. **Clone the Repository:**
 ```
 git clone https://github.com/17xr/RetroSnake.git
-cd cd retro-snake-game
+cd retro-snake-game
 ```
 
 ### Building the Project
