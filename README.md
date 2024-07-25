@@ -5,7 +5,7 @@ A redesigned Retro Snake game implemented in C++ with a visually appealing GUI. 
 - **Classic Gameplay:** Navigate the snake around the screen to collect food and grow longer.
 - **Beautiful GUI:** Retro-themed graphics with smooth animations and a user-friendly interface.
 - **Simple Controls:** Use arrow keys or WASD keys to control the snake's movement.
-- **Score Tracking:** Keep track of your high score and try to beat it.
+- **Score Tracking:** Keep track of your score and try to beat it.
 
 ## Getting Started
 ### Prerequisites
